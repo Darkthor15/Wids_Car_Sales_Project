@@ -1,2 +1,2 @@
 # Wids_Car_Sales_Project
-Car Sales Prediction Using ANN Model
+This project will help you predict the price of Cars with the help of an ANN model using several parameters
